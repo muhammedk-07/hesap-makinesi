@@ -11,6 +11,7 @@ Bu proje C++ dilinde yazılmış bilimsel bir hesap makinesine aittir.
 
 ### ➕ Temel İşlem | Basic Operations:
 - 🇹🇷 **TR**: Toplama (+), Çıkarma (-), Çarpma (*), Bölme (/) işlemlerini yapabilme.
+
 - 🇬🇧 **EN**: Ability to perform Addition (+), Subtraction (-), Multiplication (*), and Division (/) operations.
 
 <br>
